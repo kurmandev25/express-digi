@@ -1,0 +1,8 @@
+2025-02-26 12:37:15 [INFO]: POST /teas 201 41 - 1.743 ms
+2025-02-26 12:39:55 [INFO]: A post request method to add a new tea
+2025-02-26 12:39:55 [INFO]: POST /teas 201 43 - 4.113 ms
+2025-02-26 12:40:36 [INFO]: PUT /teas 404 143 - 1.137 ms
+2025-02-26 12:41:11 [INFO]: GET /teas 200 45 - 1.503 ms
+2025-02-26 12:41:19 [INFO]: A post request method to add a new tea
+2025-02-26 12:41:19 [INFO]: POST /teas 201 45 - 0.789 ms
+2025-02-26 12:41:22 [INFO]: GET /teas 200 91 - 0.307 ms
